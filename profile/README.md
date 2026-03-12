@@ -80,7 +80,7 @@ I specialize in building reliable, secure, and observable systems — from bare 
 
 | Certification | Status |
 |---------------|--------|
-| AWS DevOps Engineer – Professional | ✅ Certified |
+| AWS DevOps Engineer – Professional | ✅ InProgress |
 | AWS Cloud Practitioner | ✅ Certified |
 | WSO2 API Manager Developer V4 | ✅ Certified |
 | WSO2 API Manager Practitioner V4 | ✅ Certified |
